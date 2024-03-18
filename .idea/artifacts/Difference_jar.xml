@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Difference:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Difference_jar</output-path>
+    <root id="archive" name="Difference.jar">
+      <element id="module-output" name="Difference" />
+    </root>
+  </artifact>
+</component>
